@@ -2,11 +2,7 @@ package q1;
 
 import java.util.Scanner;
 
-/*
-  StockManagement.java
-  - 10-class inheritance chain for Stock Management System
-  - final class StockReportStock with generateReport()
-*/
+
 
 class EntityStock {
     private int id;
